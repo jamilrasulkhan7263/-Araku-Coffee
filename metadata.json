@@ -1,0 +1,8 @@
+{
+  "name": "ARAKU COFFEE — Bandra Flagship, Mumbai",
+  "description": "100% Regenerative Organic Arabica coffee, single-origin roasts, #Arakunomics heritage, and modern culinary experiences at our Bandra World Flagship, Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
